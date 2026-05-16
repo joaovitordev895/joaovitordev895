@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/1492088686815350894/1504307128863690863/7cb0f6a884078a4bacf5b42b8bd6eb16.gif?ex=6a09ce70&is=6a087cf0&hm=1aa074376a4aaf26f8f6fcd1b3a95b2f67f71af5bd39def30036f6d553a2d1e9&" alt="img">
+<img src="https://cdn.discordapp.com/attachments/1492088686815350894/1503943696654012616/0550add5ec89d85be6e8201859c5ef94.gif?ex=6a09cd77&is=6a087bf7&hm=f2b4f86f18d0b4242f2492ff492087bff6cd0ad84e43cef36e103ad2f0c42c13&" alt="img">
 <!--
 **joaovitordev895/joaovitordev895** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
