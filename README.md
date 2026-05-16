@@ -3,17 +3,7 @@
 **joaovitordev895/joaovitordev895** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## 🌐 Redes Sociais
 
-<a href="https://www.instagram.com/jaovitin_as/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40">
-</a>
 
-<a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-dev-11599b354/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40">
-</a>
-
-<a href="https://discord.com/login" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111370.png" width="40">
-</a>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
