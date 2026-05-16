@@ -1,4 +1,4 @@
-<img src="file:///home/joaovitor/Downloads/image.pngsver" alt="img">
+<img src="image.pngsver" alt="img">
 <!--
 **joaovitordev895/joaovitordev895** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
